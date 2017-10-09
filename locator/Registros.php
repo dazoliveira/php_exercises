@@ -1,0 +1,23 @@
+<?php
+$registros = [
+    1 => ['nome'=>'Lucky Mainstone', 'posicao_x'=>1, 'posicao_y'=>10, 'carro'=>'Dodge', 'carro_ano'=>1995, 'carro_cor'=>'branco', 'avaliacao'=>4, 'especial'=>true],
+    2 => ['nome'=>'Valeda Ariss', 'posicao_x'=>2, 'posicao_y'=>4, 'carro'=>'Kia', 'carro_ano'=>1997, 'carro_cor'=>'prata', 'avaliacao'=>1, 'especial'=>false],
+    3 => ['nome'=>'Carlee Slemmonds', 'posicao_x'=>3, 'posicao_y'=>5, 'carro'=>'Volkswagen', 'carro_ano'=>1990, 'carro_cor'=>'preto', 'avaliacao'=>2, 'especial'=>false],
+    4 => ['nome'=>'Hilliard Wilfling', 'posicao_x'=>5, 'posicao_y'=>12, 'carro'=>'Suzuki', 'carro_ano'=>1995, 'carro_cor'=>'vermelho', 'avaliacao'=>2, 'especial'=>false],
+    5 => ['nome'=>'Emmett McPhaden', 'posicao_x'=>6, 'posicao_y'=>10, 'carro'=>'Acura', 'carro_ano'=>2007, 'carro_cor'=>'prata', 'avaliacao'=>4, 'especial'=>true],
+    6 => ['nome'=>'Cornie Renison', 'posicao_x'=>6, 'posicao_y'=>12, 'carro'=>'Lexus', 'carro_ano'=>2011, 'carro_cor'=>'branco', 'avaliacao'=>4, 'especial'=>false],
+    7 => ['nome'=>'Selina Bales', 'posicao_x'=>7, 'posicao_y'=>11, 'carro'=>'Land Rover', 'carro_ano'=>2008, 'carro_cor'=>'prata', 'avaliacao'=>3, 'especial'=>false],
+    8 => ['nome'=>'Danita Dollimore', 'posicao_x'=>7, 'posicao_y'=>15, 'carro'=>'Isuzu', 'carro_ano'=>2005, 'carro_cor'=>'preto', 'avaliacao'=>2, 'especial'=>false],
+    9 => ['nome'=>'Brittany Trounce', 'posicao_x'=>7, 'posicao_y'=>16, 'carro'=>'Toyota', 'carro_ano'=>2009, 'carro_cor'=>'vermelho', 'avaliacao'=>1, 'especial'=>false],
+    10 => ['nome'=>'Terese Antushev', 'posicao_x'=>7, 'posicao_y'=>17, 'carro'=>'Chrysler', 'carro_ano'=>1997, 'carro_cor'=>'branco', 'avaliacao'=>1, 'especial'=>false],
+    11 => ['nome'=>'Pansie McNutt', 'posicao_x'=>8, 'posicao_y'=>4, 'carro'=>'Maserati', 'carro_ano'=>1984, 'carro_cor'=>'vermelho', 'avaliacao'=>4, 'especial'=>false],
+    12 => ['nome'=>'Eugen Mantione', 'posicao_x'=>9, 'posicao_y'=>4, 'carro'=>'Oldsmobile', 'carro_ano'=>1995, 'carro_cor'=>'branco', 'avaliacao'=>1, 'especial'=>true],
+    13 => ['nome'=>'Deny Ianilli', 'posicao_x'=>12, 'posicao_y'=>19, 'carro'=>'Buick', 'carro_ano'=>2007, 'carro_cor'=>'prata', 'avaliacao'=>3, 'especial'=>false],
+    14 => ['nome'=>'Dido Corragan', 'posicao_x'=>13, 'posicao_y'=>3, 'carro'=>'Dodge', 'carro_ano'=>2001, 'carro_cor'=>'preto', 'avaliacao'=>3, 'especial'=>false],
+    15 => ['nome'=>'Kordula Goodricke', 'posicao_x'=>14, 'posicao_y'=>17, 'carro'=>'Mercedes-Benz', 'carro_ano'=>2004, 'carro_cor'=>'preto', 'avaliacao'=>4, 'especial'=>false],
+    16 => ['nome'=>'Calhoun Guion', 'posicao_x'=>16, 'posicao_y'=>4, 'carro'=>'Suzuki', 'carro_ano'=>1987, 'carro_cor'=>'preto', 'avaliacao'=>5, 'especial'=>false],
+    17 => ['nome'=>'Royal Tregunnah', 'posicao_x'=>17, 'posicao_y'=>10, 'carro'=>'Chrysler', 'carro_ano'=>2009, 'carro_cor'=>'branco', 'avaliacao'=>3, 'especial'=>false],
+    18 => ['nome'=>'Lucien Snazel', 'posicao_x'=>17, 'posicao_y'=>20, 'carro'=>'Chevrolet', 'carro_ano'=>1993, 'carro_cor'=>'branco', 'avaliacao'=>2, 'especial'=>false],
+    19 => ['nome'=>'Livvyy Lerwill', 'posicao_x'=>18, 'posicao_y'=>14, 'carro'=>'Mazda', 'carro_ano'=>1995, 'carro_cor'=>'azul', 'avaliacao'=>2, 'especial'=>false],
+    20 => ['nome'=>'Joana Rankmore', 'posicao_x'=>19, 'posicao_y'=>11, 'carro'=>'GMC', 'carro_ano'=>1999, 'carro_cor'=>'azul', 'avaliacao'=>4, 'especial'=>false],
+];

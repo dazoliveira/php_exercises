@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans|Fjalla+One');
+
+html {
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: 100%;
+}
+
+body {
+    font-family: 'Encode Sans', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    background-repeat:no-repeat;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    padding: 0px;     /* Position the navbar at the top of the page */
+    margin: 0px;
+    width: 100%;
+    background: linear-gradient(30deg, white, #CEF6F5,#808080);
+    height: 55px;
+    color: black;
+}
+
+
+header{
+    position: absolute;
+    font-family: 'Fjalla One', sans-serif;
+    margin: 15px auto auto 15px;
+    font-size: 25px;
+    width: auto;   
+}
+
+article{
+    text-align:center;
+    border: solid;
+    padding: 15px;
+    border-width: 1px;
+    height: auto;    
+    margin:5% 35% auto 35%;
+}
+
+
+a{
+	margin:10px;
+	padding:2px;
+	text-decoration:none;
+	cursor:pointer;
+}
